@@ -1,0 +1,2 @@
+date,card,account,account_valid_to,client,last_name,first_name,patronymic,date_of_birth,passport,passport_valid_to,phone,oper_type,amount,oper_result,terminal,terminal_type,city,address
+2020-05-01T00:00:29,59649132026167121328,40817810000001139973,2036-01-16T00:00:00,3-95179,Мисик,Сергей,Николаевич,1938-06-25T00:00:00,7076445954,2022-11-09T00:00:00,+79497481039,Пополнение,31576.6,Отказ,POS43792,POS,Славянск-на-Кубани,"Славянск-на-Кубани, ул. Клецкая, д. 86"
