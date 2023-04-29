@@ -3,4 +3,6 @@
 
 Использование библиотек: pandas, json, plotly
 
-подробнее в файле `Opportunity Cup Двухбитные.pdf`
+Код: `Opportunity_Cup2022.ipynb`
+
+Презентация: `Opportunity Cup Двухбитные.pdf`
